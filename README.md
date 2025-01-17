@@ -15,4 +15,10 @@ YouTube: https://youtube.com/@ma-12009?si=lwW1jzneD7iaSz0V
 2) Any 12v/200w power supply (i used a PC/500w PSU)
 3) 6 aluminium profiles (20x20x400mm)
 4) The hotend and the extruder (i used those ones from this 3d printer https://shorturl.at/LFZa9 where i also printed the parts)
-5) 
+5) Some controller with screen
+6) 4 stepper mottors
+7) The moovable rails for the X/Y/Z moovment (300mm long)
+8) 250x250mm glass plate
+9) a cupple of rods
+
+# Links where to buy
