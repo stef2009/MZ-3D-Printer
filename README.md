@@ -1,7 +1,11 @@
 # Informations
 If you are going to use a standart PC power suply like me, make sure that your parts are on 12V and that the PSU is over 200w.
 
-If you want more projects like this, don't ezitate to donate, every cent matter. (https://www.paypal.com/donate/?hosted_button_id=YHBSQGS9E538E)
+It has an web file menegment.
+
+If you want more projects like this, don't ezitate to donate, every cent matter. (https://www.paypal.com/donate/?hosted_button_id=YHBSQGS9E538E).
+
+The software is standart MARLIN, If you build it like me, you cand use my files of software and use this tut https://www.youtube.com/watch?v=6KCa3XEugMY to wacj how to put it.
 
 # Follow ME
 TikTok: https://www.tiktok.com/@ma_compute?_t=ZN-8t9JElzGSLW&_r=1
