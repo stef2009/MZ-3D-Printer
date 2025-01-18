@@ -18,6 +18,7 @@ YouTube: https://youtube.com/@ma-12009?si=lwW1jzneD7iaSz0V
 2) 3mm drill bit
 3) a lot of M3 screws/nuts
 4) some pliers
+5) soldering gun
 
 # Materials
 1) 3D Print all the files in the STL folder but not the Don't files, they are just prototipes
